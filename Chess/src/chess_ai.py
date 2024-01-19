@@ -4,7 +4,7 @@ import pygame as p
 
 class ChessAI:
     def __init__(self):
-        #in order to implement the above algorithms, we need to assign a value to each piece.
+        #in order to implement the algorithms, we need to assign a value to each piece.
         #we define a dictionary of pieces, mapped to their value on the chess board
         self.pieceValue = { 
                 "P": 1, 
