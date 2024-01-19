@@ -1,0 +1,3 @@
+{
+  "python.analysis.extraPaths": ["./4D_Chess/src"]
+}
